@@ -15,9 +15,7 @@
 
 - [🔥 Core Idea & Inspiration](#-core-idea--inspiration)
 - [🛠️ Tech Stack](#️-tech-stack)
-- [🌐Live Demo](#-live-demo)
 - [✨ Features Implemented](#-features-implemented)
-- [📸 Screenshots](#-screenshots)
 - [💡 How to Use](#-how-to-use)
 - [🔧 Installation & Setup](#-installation--setup)
 - [🌱 Future Updates](#-future-updates)
