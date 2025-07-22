@@ -1,6 +1,6 @@
-# ShareNest 🏠
+# UrbanNest 🏠
 
-**ShareNest** is a comprehensive roommate-finding web application designed to help people—especially recent graduates—find compatible flatmates that match their preferences, location, and lifestyle. Moving to a new city is challenging, and finding the right person to share a space with shouldn't add to the stress.
+**UrbanNest** is a comprehensive roommate-finding web application designed to help people—especially recent graduates—find compatible flatmates that match their preferences, location, and lifestyle. Moving to a new city is challenging, and finding the right person to share a space with shouldn't add to the stress.
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -27,7 +27,7 @@
 
 ## 🔥 Core Idea & Inspiration
 
-When students graduate and move to new cities for jobs or higher education, finding a compatible flatmate becomes a crucial but often stressful task. Traditional methods like social media posts or classified ads often lack the depth needed to find truly compatible roommates. **ShareNest** bridges this gap by providing a comprehensive platform where users can:
+When students graduate and move to new cities for jobs or higher education, finding a compatible flatmate becomes a crucial but often stressful task. Traditional methods like social media posts or classified ads often lack the depth needed to find truly compatible roommates. **UrbanNest** bridges this gap by providing a comprehensive platform where users can:
 
 - Create detailed profiles with preferences and lifestyle choices
 - Discover potential flatmates through their feed section
@@ -62,11 +62,7 @@ When students graduate and move to new cities for jobs or higher education, find
 
 ---
 
-## 🚀 Live Demo
 
-🌐 [Visit ShareNest Live](https://share-nest-zeta.vercel.app/)
-
----
 
 ## ✨ Features Implemented
 
@@ -108,32 +104,7 @@ When students graduate and move to new cities for jobs or higher education, find
 
 ---
 
-## 📸 Screenshots
 
-### **Sign Up Page**
-![Sign Up Page](./screenshots/signupPage.png)
-### **Login Page**
-![Login Page](./screenshots/loginPage.png)
-### **Edit Profile Page**
-![Edit Profile Page](./screenshots/editProfilePage.png)
-### **Feed Page**
-![Feed Page](./screenshots/feedPage.png)
-### **City Autocomplete in Feed**
-![Feed Page](./screenshots/autocomplete.png)
-### **Filter Profiles by city**
-![Feed Page](./screenshots/cityFilter.png)
-### **Connection Requests Page**
-![Connection Requests Page](./screenshots/connectionRequestsPage.png)
-### **Connections Page**
-![Connections Page](./screenshots/connectionsPage.png)
-### **Chatting Page**
-![Chatting Page](./screenshots/chatPage.png)
-### **Responsive Design**
-![Responsive Design](./screenshots/responsiveChatPage.png)
-### **Page Not Found**
-![Page Not Found](./screenshots/404pageNotFound.png)
-
----
 
 ## 💡 How to Use
 
@@ -172,8 +143,8 @@ When students graduate and move to new cities for jobs or higher education, find
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/official-tushar/ShareNest.git
-cd ShareNest
+git clone https://github.com/thisdhairya/UrbanNest.git
+cd UrbanNest
 ```
 #### 2. Install Backend Dependencies
 
@@ -186,7 +157,7 @@ npm install
 Create a .env file in the /server directory:
 
 ```bash
-PORT=7777
+PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 ```
@@ -235,12 +206,4 @@ Ensure your MongoDB instance is running
 - Enhanced Security - Add two-factor authentication
 
 
----
 
-## 👤 Author & Contact
-**Developer Information**:
-Tushar Srivastava
-
-- **GitHub**: @official-tushar
-- **LinkedIn**: tusharsrivastava8404
-- **Email**: tusharsrivastava8404@gmail.com
