@@ -19,7 +19,7 @@
 - [💡 How to Use](#-how-to-use)
 - [🔧 Installation & Setup](#-installation--setup)
 - [🌱 Future Updates](#-future-updates)
-- [👤 Author & Contact](#-author--contact)
+
 
 ---
 
